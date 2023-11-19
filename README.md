@@ -18,9 +18,9 @@ The components coded:
     iv) IR (Instruction Register)
     v) REGISTERS
 
-Information related to the code is given in **Specification.docx**.
+Information related to the code is given in ***Specification.docx***.
 
-For test runs **program.txt** with **data.txt**.
+For test runs ***program.txt*** with ***data.txt***.
 
 The code was done using python.
 
